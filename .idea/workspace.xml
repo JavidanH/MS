@@ -4,14 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58d39b6f-a5af-4253-9cda-0bb96f7fc4e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MS-Ingress.iml" afterDir="false" />
+    <list default="true" id="58d39b6f-a5af-4253-9cda-0bb96f7fc4e4" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Adapter/ConventerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Adapter/EXCEL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Adapter/XML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Builder/EstateAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Builder/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Builder/HomeBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Decorator/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Decorator/CarDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Decorator/SimpleCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Decorator/TurnedCarDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Facade/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Facade/BankFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Facade/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Facade/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Prototype/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Prototype/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Proxy/CompanyInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Proxy/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Proxy/DirectorProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Proxy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS-Ingress.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MS-Ingress.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +41,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Kotlin Class" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -49,6 +69,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -58,6 +79,82 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="SOLID.O" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Task2.Facade.Main">
+    <configuration name="EstateAgent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.Builder.EstateAgent" />
+      <module name="MS-Ingress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task2.Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.Prototype.Main" />
+      <module name="MS-Ingress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task2.Prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2.Decorator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.Decorator.Main" />
+      <module name="MS-Ingress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task2.Decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2.Facade.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.Facade.Main" />
+      <module name="MS-Ingress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task2.Facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2.Proxy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.Proxy.Main" />
+      <module name="MS-Ingress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task2.Proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task2.Facade.Main" />
+        <item itemvalue="Application.Task2.Decorator.Main" />
+        <item itemvalue="Application.Task2.Proxy.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EstateAgent" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -69,8 +166,22 @@
       <updated>1702119041733</updated>
       <workItem from="1702119043982" duration="5810000" />
       <workItem from="1702146698392" duration="5406000" />
-      <workItem from="1702200047499" duration="7243000" />
+      <workItem from="1702200047499" duration="8260000" />
+      <workItem from="1702263418440" duration="1987000" />
+      <workItem from="1702744127711" duration="4847000" />
+      <workItem from="1702805847942" duration="17050000" />
+      <workItem from="1703017410710" duration="77000" />
+      <workItem from="1703096369102" duration="1944000" />
+      <workItem from="1703098460806" duration="1550000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1702211268633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702211268633</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +197,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
