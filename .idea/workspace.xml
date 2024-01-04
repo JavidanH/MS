@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58d39b6f-a5af-4253-9cda-0bb96f7fc4e4" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/src/Task3/Strategy/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Strategy/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Strategy/TransportStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Strategy/Transportation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,6 +154,9 @@
       <workItem from="1703096369102" duration="1944000" />
       <workItem from="1703098460806" duration="1914000" />
       <workItem from="1703529362969" duration="3751000" />
+      <workItem from="1703692682242" duration="619000" />
+      <workItem from="1704094943767" duration="597000" />
+      <workItem from="1704283043484" duration="647000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1702211268633</created>
